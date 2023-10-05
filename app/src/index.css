@@ -1,10 +1,12 @@
-body {
+
+
+/* body {
   background-color: #eee;
   display: flex;
   font-family: 'Muli', sans-serif;
 }
 
-.contract, .existing-contracts {
+.contract, .existing-contracts ,.App{
   margin: 20px;
   display: inline-block;
   padding: 40px;
@@ -68,3 +70,6 @@ input[type="text"] {
   color: #5aa75a;
   text-align: center;
 }
+
+
+ */

@@ -1,6 +1,8 @@
 app/dist
 app/artifacts
+app/src/deploy.js
 cache
 node_modules
 artifacts
 *.bck
+.env
