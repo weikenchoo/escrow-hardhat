@@ -3,8 +3,6 @@
 - Able to interact with goerli testnet
 - Made changes to Solidity file so that user won't have to deploy a new contract for every new escrow
 	- [Contract](https://goerli.etherscan.io/address/0x06679fe554d0dcc9c83ec7318b39a7a504f55076) keeps track of all the escrows created.
-- 
-
 
 
 # Decentralized Escrow Application
